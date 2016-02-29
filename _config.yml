@@ -3,14 +3,17 @@
 
 # Site settings
 title: Project Name
-headline: Light Logistic Services
-description: Swiftli is an on-demand delivery network that makes getting things in your city more convenient, affordable, and reliable.
-logo: /images/swiftli_logo_white.png
+headline: |
+  Project Headline
+description: Project Description
+logo: /images/ipay_logo.png
 owner: Information Business # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: swiftli@ib.sa
+email: ipay@ib.sa
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://swiftli.io" # the base hostname & protocol for your site
+url: "http://ipay.sa" # the base hostname & protocol for your site
+project-url: http://ib.sa/projects/ipay
+contact-url: http://ib.sa/#contact
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
